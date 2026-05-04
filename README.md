@@ -1,4 +1,4 @@
-# Debian Hardening Suite 🛡️
+# Firewall-UFW 🛡️
 
 This repository contains professional automation scripts designed to secure Debian-based infrastructures, focusing on defensive security and information integrity.
 
